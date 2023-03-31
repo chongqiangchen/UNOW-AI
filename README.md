@@ -1,5 +1,4 @@
-## QuickAI 使用指南
-
+# QuickAI 使用指南
 
 <aside>
 💡 轻量级AI工具集，可保存常用prompt结合各种数据采集方案进行使用（暂时仅支持文本一些相关采集）
@@ -7,27 +6,32 @@
 
 ---
 
-### 使用指南（翻译为例子）
+### 快捷键
 
-1. 选中期望使用的模型
+1. 截图识文：ALT/Option + S
+2. 显示隐藏：ALT/Option + A
+3. 快速执行：ALTOption + Enter
+4. 快速切换Model: ALT/Option + M
+
+---
+
+### 使用参考（翻译为例子）
+
+1. 按住**ALT/Option + M**快速切换model（或是手动点击下面图中菜单选中期望的model）
 
 ![Untitled](images/Untitled.png)
 
-1. 输入内容并点击执行图标
+2. 输入内容按住**ALT/Option + Enter**（或是点击执行图标）
 
 ![Untitled](images/Untitled%201.png)
 
-1. 查看前一句回答或前一句问题
-
-![Untitled](images/Untitled%202.png)
-
-1. 清空当前上下文
+3. 清空当前上下文
 
    ![Untitled](images/Untitled%203.png)
 
-2. 截图识文 
+4. 按下Option/ALT + S截图识文
 
-   按下Option/ALT + S，点击执行
+    
 
 ---
 
@@ -41,14 +45,6 @@
 2. 编辑右键模板区块
 
 ![Untitled](images/Untitled%205.png)
-
----
-
-### 快捷键
-
-1. 截图识文：Option + S
-2. 显示隐藏：Option + A
-3. 快速切换model：Option + M
 
 ---
 
