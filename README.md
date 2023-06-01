@@ -7,9 +7,10 @@
 ---
 
 **APP快捷键：**
-ALT/OPTION+A：打开窗口
-ALT/OPTION+S：OCR，截图捕获文字
-ALT/OPTION+M：捕获选中文字打开窗口
+
+1. ALT/OPTION+A：打开窗口
+2. ALT/OPTION+S：OCR，截图捕获文字
+3. ALT/OPTION+M：捕获选中文字打开窗口
 
 ---
 
