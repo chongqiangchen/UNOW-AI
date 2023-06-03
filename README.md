@@ -5,8 +5,14 @@
 </aside>
 
 ---
+**支持：**
 
-**APP快捷键：**
+1. Web版本[LINK](https://unow-ai-app.vercel.app/)
+2. PC版本[LINK](https://github.com/chongqiangchen/UNOW-AI/releases/tag/UnowAI-APP-V0.1.3)
+
+---
+
+**PC快捷键：**
 
 1. ALT/OPTION+A：打开窗口
 2. ALT/OPTION+S：OCR，截图捕获文字
