@@ -19,5 +19,3 @@
 3. ALT/OPTION+M：捕获选中文字打开窗口
 
 ---
-
-<img width="615" alt="image" src="https://github.com/chongqiangchen/UNOW-AI/assets/47734376/bb286566-fb50-46e3-a32e-132bdd6277f1">
